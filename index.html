@@ -27,25 +27,26 @@
     <div class="myWeek1">
         <h1>Data Science for Economists.</h1>
         
-        <h3>Covid-19</h3>
-        <p>The first chart tracks Covid-19 cases by UK region.</p>
-        <div class="chart" id="Chart1"></div>
+        <h3>Inflation</h3>
+        <p>The first chart tracks the change in inflation in percents.</p>
+        <div class="chart" id="Chart3"></div>
 
         <h3>Productivity puzzle</h3>
-        <p>My second chart looks at productivity in the UK</p>
-        <div class="chart" id="Chart2"> </div>
+        <p>My second chart looks at the Bank of England's policy rate.</p>
+        <div class="chart" id="Chart4"> </div>
+        <!-- Cia iterpti savo grafikus -->
     </div> 
 </body>
 
 
 <script>
     //Define charts:
-    var myChart1 = "chart1_covidUKRegions.json";
-    var myChart2 = "chart2_ukProductivity.json";
+    var myChart3 = "chart3_inflation.json";
+    var myChart4 = "chart4_BankRate.json";
 
     // Embed charts:
-    vegaEmbed('#Chart1', myChart1);
-    vegaEmbed('#Chart2', myChart2);
+    vegaEmbed('#Chart3', myChart3);
+    vegaEmbed('#Chart4', myChart4);
 </script>
 
 </html>
