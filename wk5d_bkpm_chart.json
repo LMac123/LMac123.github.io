@@ -1,0 +1,31 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  
+    "width": 200,
+    "height": 200,
+  
+    "title": "British government stock (gilts): £m",
+  
+    "data": {
+      "url": "https://raw.githubusercontent.com/LMac123/LMac123.github.io/main/data_ONS-BKPM.json",
+      "format":{"type":"json", "property": "months"}
+      },
+  
+    "mark": {
+        "type": "line",
+        "color": "darkseagreen"},
+  
+    "encoding": {
+  
+         "x": {
+           "field": "date",
+           "type": "temporal"},
+  
+          "y":
+          {"field": "value",
+          "type": "quantitative",
+          "title": null,
+          "axis": {"grid": false}
+          }
+    
+  }}
