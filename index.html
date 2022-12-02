@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Liepa Macyte</title>
+    <title>Portfolio</title>
 
      <!-- Link to my style sheet -->
      <link rel="stylesheet" href="index copy.css">
@@ -26,46 +26,110 @@
     <!-- Pakeisti kad šitas h1 būtų virš Portfolio tasks headingo. Gal paaiškinti iš kur paėmiau šitus grafikus, pakeisti grafiku spalvas.-->
     <h3>Inflation</h3>
     <p>The first chart tracks the change in inflation in percents.</p>
-    <div class="chart" id="Chart3"></div>
+    <div class="chart" id="Chart1"></div>
 
     <h3>BoE policy rate</h3>
     <p>My second chart looks at the Bank of England's policy rate.</p>
-    <div class="chart" id="Chart4"> </div>
+    <div class="chart" id="Chart2"> </div>
     </div>
 
 
 <h2>Week 2</h2>
 <p>This week we looked at an FT chart showing total IMF lending in billions of USD from 1984 to today. 
-    In class, we discussed the fact that it might not show an accurate picture of the situaton because of inflation and <em>xyz</em>.
-    Therefore, we wanted to adjust for inflation to get a better sense of when countries should've goten loans.
+    In class, we discussed the fact that it might not show an accurate picture of the situaton because of inflation.
+    Therefore, we wanted to divide IMF lending by World GDP to get a better sense of when countries should've gotten loans.
 </p>   
 
 <div class="myWeek1">
     <h3>Total IMF Lending from 1984 to 2022</h3>
-    <div class="chart" id="Chart5"></div>
+    <div class="chart" id="Chart3"></div>
 
     <h3>IMF Lending as a percentage of World GDP</h3>
-    <div class="chart" id="Chart6"> </div>
+    <div class="chart" id="Chart4"> </div>
 
     <p>Whilst we may have thought that it would have been better to get a loan from the IMF in 1984, we can now clearly see in
         the second chart that although the IMF is lending more, comparatively the world is in a much better state than it was in 1984.
     </p>
     <!-- Kazkaip pakeisti sakini pries tai. nelabai man jis patinka-->
     </div> 
+
+
+<div class="myWeek1">
+    <h2>Week 3</h2> 
+    <p>This week, we had to create a chart where the data would be embedded in the code, instead of having to refer to an additional URL.</p>
+
+    <h3>Maturity and yields of different bonds</h3>
+    <div class="chart" id="Chart5"></div>
+
+    <div class="chart" id="Chart6"> </div>
+
+    <p>The second chart is more precise in showing the small variations of the yields of bonds.</p>
+    </div>
+
+<div class="myWeek1">
+    <h2>Week 4</h2>
+    <p>This week we had to build a graph using data we scraped off of a website. I looked at the average electricity usage per year per capita across the world as it is relevant for my project.
+        Hover your mouse over the bars to see the corresponding country and value.
+    </p>
+
+    <h3>Average consumption of electricity per year per capita in kWh</h3>
+    <div class="chart" id="Chart7"></div>
+    </div>
+
+<div class="myWeek1">
+    <h2>Week 5</h2>
+    <p>This week we had to build a dashboard of 9 graphs about the UK's economy. I chose to do graphs about:. Here is my Colab notebook.
+    </p>
+
+    <h3>Dashboard of UK economy</h3>
+    <div class="chart" id="Chart8"></div>
+    <div class="chart" id="Chart9"></div>
+    <div class="chart" id="Chart10"></div>
+    <div class="chart" id="Chart11"></div>
+    <div class="chart" id="Chart12"></div>
+    <div class="chart" id="Chart13"></div>
+    <div class="chart" id="Chart14"></div>
+    <div class="chart" id="Chart15"></div>
+    <div class="chart" id="Chart16"></div>
+    </div>
 </body>
+
 
 <script>
     //Define charts:
-    var myChart3 = "chart3_inflation.json";
-    var myChart4 = "chart4_BankRate.json";
-    var myChart5 = "imflending.json";
-    var myChart6 = "imflending_wgdp.json";
-//Pakeisti chart'u skaicius: chart3 turetu buti chart 1 etc
+    var myChart1 = "chart1_inflation.json";
+    var myChart2 = "chart2_BankRate.json";
+    var myChart3 = "imflending.json";
+    var myChart4 = "imflending_wgdp.json";
+    var myChart5 = "chart_6a_bar.json";
+    var myChart6 = "chart_6b_line.json";
+    var myChart7 = "elchart.json";
+    var myChart8 = "wk5a_anbv_chart.json";
+    var myChart9 = "wk5b_anlp_chart.json";
+    var myChart10 = "wk5c_anns_chart.json";
+    var myChart11 = "wk5d_bkpm_chart.json";
+    var myChart12 = "wk5e_gzsj_chart.json";
+    var myChart13 = "wk5f_nmcu_chart.json";
+    var myChart14 = "wk5g_nmfj_chart.json";
+    var myChart15 = "wk5h_nzgf_chart.json";
+    var myChart16 = "wk5i_ruto_chart.json";
     // Embed charts:
+    vegaEmbed('#Chart1', myChart1);
+    vegaEmbed('#Chart2', myChart2);
     vegaEmbed('#Chart3', myChart3);
     vegaEmbed('#Chart4', myChart4);
     vegaEmbed('#Chart5', myChart5);
     vegaEmbed('#Chart6', myChart6);
-</script>
+    vegaEmbed('#Chart7', myChart7);
+    vegaEmbed('#Chart8', myChart8);
+    vegaEmbed('#Chart9', myChart9);
+    vegaEmbed('#Chart10', myChart10);
+    vegaEmbed('#Chart11', myChart11);
+    vegaEmbed('#Chart12', myChart12);
+    vegaEmbed('#Chart13', myChart13);
+    vegaEmbed('#Chart14', myChart14);
+    vegaEmbed('#Chart15', myChart15);
+    vegaEmbed('#Chart16', myChart16);
+    </script>
 
 </html>
