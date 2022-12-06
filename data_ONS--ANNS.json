@@ -1,23 +1,4 @@
 {
-    "description": {
-        "cdid": "ANNS",
-        "contact": {
-            "email": "public.sector.inquiries@ons.gov.uk",
-            "name": "Fraser Munro",
-            "telephone": "+44 1633 456402"
-        },
-        "datasetId": "PUSF",
-        "datasetUri": "/economy/governmentpublicsectorandtaxes/publicsectorfinance/datasets/publicsectorfinances",
-        "date": "2022 SEP",
-        "nextRelease": "22 November 2022",
-        "number": "-7371",
-        "preUnit": "£",
-        "releaseDate": "2022-10-20T23:00:00.000Z",
-        "sampleSize": "0",
-        "source": "",
-        "title": "CG: Total Net Investment: £m CPNSA",
-        "unit": "m"
-    },
     "months": [
         {
             "date": "1993 JAN",
