@@ -1,0 +1,28 @@
+{"$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+
+  "width":500,
+  "height":500,
+
+ "data": {
+  "url": "https://raw.githubusercontent.com/LMac123/LMac123.github.io/main/eugeo.json",
+  "format": {"property":"features"}},
+
+ "projection": {
+        "type":"mercator"
+    },
+
+    "mark": {
+      "type": "geoshape",
+      "stroke": "black",
+      "strokeWidth":0.3,
+      "fill":"#FF7417"
+  },
+
+  "encoding": {
+    "tooltip": [
+      {"field": "properties.NAME",
+      "type":"nominal",
+      "title":"Country"}]
+  } 
+
+}
