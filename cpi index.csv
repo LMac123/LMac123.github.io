@@ -1,32 +1,32 @@
-﻿Item,Size,Price in 2021,Price in 2022,Change
-Pasta,500g,36,53,0.501
-Crisps,150g,71,83,0.168
-Bread,800g,47,54,0.164
-Beef Mince,500g,202,234,0.157
-Rice,1000g,80,92,0.15
-Biscuits,400g,39,45,0.143
-Fruit Juice (Orange),1000ml,63,72,0.141
-Mixed Frozen Vegetables,1000g ,78,89,0.137
-Fruit Squash,750ml,44,49,0.122
-Breakfast Cereal,500g,69,76,0.101
-Chicken Breast,600g,322,350,0.087
-Vegetable Oil,1000ml,164,178,0.085
-Baked Beans,400g,29,31,0.07
-Tomato Ketchup,460g ,58,61,0.059
-Fish Fingers,250g,75,77,0.028
-Onions,1000g,65,67,0.026
-Ham ,200g ,160,164,0.021
-Tomatoes,400g ,64,65,0.019
-Tea ,125g,86,88,0.018
-Yoghurt ,500g,54,55,0.015
-Bananas,5 pack,73,74,0.007
-Instant Coffee,100g,134,135,0.007
-Granulated Sugar ,1000g,66,67,0.005
-Milk,4 pints,126,127,0.003
-Apples,6 pack,96,94,-0.012
-Sausages,454g,87,84,-0.026
-Chips,900g,119,116,-0.029
-Pizza,300g,99,95,-0.041
-Cheese,255g,95,88,-0.073
-Potatoes,2500g,87,75,-0.138
-CPI 12-month rate,,110.1,120,0.0899
+﻿Item,Size,Price in 2021,Price in 2022,Change, Colour
+Pasta,500g,36,53,0.501,#234D20
+Crisps,150g,71,83,0.168,#234D20
+Bread,800g,47,54,0.164,#234D20
+Beef Mince,500g,202,234,0.157,#234D20
+Rice,1000g,80,92,0.15,#234D20
+Biscuits,400g,39,45,0.143,#234D20
+Fruit Juice (Orange),1000ml,63,72,0.141,#234D20
+Mixed Frozen Vegetables,1000g ,78,89,0.137,#234D20
+Fruit Squash,750ml,44,49,0.122,#234D20
+Breakfast Cereal,500g,69,76,0.101,#234D20
+Chicken Breast,600g,322,350,0.087,#234D20
+Vegetable Oil,1000ml,164,178,0.085,#234D20
+Baked Beans,400g,29,31,0.07,#234D20
+Tomato Ketchup,460g ,58,61,0.059,#234D20
+Fish Fingers,250g,75,77,0.028,#234D20
+Onions,1000g,65,67,0.026,#234D20
+Ham ,200g ,160,164,0.021,#234D20
+Tomatoes,400g ,64,65,0.019,#234D20
+Tea ,125g,86,88,0.018,#234D20
+Yoghurt ,500g,54,55,0.015,#234D20
+Bananas,5 pack,73,74,0.007,#234D20
+Instant Coffee,100g,134,135,0.007,#234D20
+Granulated Sugar ,1000g,66,67,0.005,#234D20
+Milk,4 pints,126,127,0.003,#234D20
+Apples,6 pack,96,94,-0.012,#234D20
+Sausages,454g,87,84,-0.026,#234D20
+Chips,900g,119,116,-0.029,#234D20
+Pizza,300g,99,95,-0.041,#234D20
+Cheese,255g,95,88,-0.073,#234D20
+Potatoes,2500g,87,75,-0.138,#234D20
+CPI 12-month rate,,110.1,120,0.0899,#FF0000
