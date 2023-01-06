@@ -1,0 +1,10 @@
+﻿Type,Price USDkWh
+Onshore Wind,0.039
+Solar Photovoltaic,0.057
+Offshore Wind,0.084
+Biomass,0.076
+Geothermal,0.071
+Hydro,0.044
+Concentrating Solar Power,0.108
+EU Average Price of Electricity of HH Consumers,0.18
+EU Average Price of Electricity of NHH Consumers,0.2
