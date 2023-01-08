@@ -1,0 +1,35 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "data": {"url": "https://raw.githubusercontent.com/LMac123/LMac123.github.io/main/sdg_07_40__custom_4075782_page_linear.csv"},
+    "transform": [{
+      "filter": {"and": [
+        {"field": "change in renen usage over 10 years", "valid": true},
+        {"field": "change in elec price over 10 years", "valid": true}
+      ]}
+    }],
+    "mark": "rect",
+    "width": 300,
+    "height": 300,
+    "encoding": {
+      "x": {
+        "bin": {"maxbins":20},
+        "field": "change in renen usage over 10 years",
+        "type": "quantitative"
+      },
+      "y": {
+        "bin": {"maxbins": 20},
+        "field": "change in elec price over 10 years",
+        "type": "quantitative"
+      },
+      "color": {
+        "aggregate": "count",
+        "type": "quantitative"
+      }
+    },
+    "config": {
+      "view": {
+        "stroke": "transparent"
+      }
+    }
+  }
+  

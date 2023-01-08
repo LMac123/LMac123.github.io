@@ -1,0 +1,52 @@
+{"$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+
+  "width":500,
+  "height":500,
+
+ "data": {
+  "url": "https://raw.githubusercontent.com/LMac123/LMac123.github.io/main/eugeo.json",
+  "format": {"property":"features"}},
+
+  "title":{
+    "text":"GDP per Unit of Energy Use",
+    "subtitle":"PPP USD per KG of Oil Equivalent in 2014",
+    "anchor": "start"
+  },
+
+ "projection": {
+        "type":"mercator"
+    },
+
+    "mark": {
+      "type": "geoshape",
+      "stroke": "black",
+      "strokeWidth":0.3
+  },
+
+  "transform": [
+    {"lookup":"properties.NAME",
+      "from":{
+        "data":{
+          "url":"https://raw.githubusercontent.com/LMac123/LMac123.github.io/main/Europe%202014.csv"},
+        "key":"Country Name",
+        "fields":["YR2014"]
+      }
+    }
+  ],
+
+  "encoding": {
+    "color":{
+      "field":"YR2014",
+      "type":"quantitative"
+    },
+    "tooltip": [
+      {"field": "properties.NAME",
+      "type":"nominal",
+      "title":"Country"},
+      {"field":"YR2014",
+      "type": "quantitative",
+      "title":"GDP per unit of energy use"}
+      ]
+  } 
+
+}
