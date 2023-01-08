@@ -1,0 +1,1243 @@
+siec,geo,TIME_PERIOD,OBS_VALUE
+Nuclear Heat,Belgium,1990,42722
+Nuclear Heat,Belgium,1991,42861
+Nuclear Heat,Belgium,1992,43456
+Nuclear Heat,Belgium,1993,41927
+Nuclear Heat,Belgium,1994,40624
+Nuclear Heat,Belgium,1995,41356
+Nuclear Heat,Belgium,1996,43336
+Nuclear Heat,Belgium,1997,47408
+Nuclear Heat,Belgium,1998,46165
+Nuclear Heat,Belgium,1999,49017
+Nuclear Heat,Belgium,2000,48157
+Nuclear Heat,Belgium,2001,46349
+Nuclear Heat,Belgium,2002,47360
+Nuclear Heat,Belgium,2003,47379
+Nuclear Heat,Belgium,2004,47312
+Nuclear Heat,Belgium,2005,47595
+Nuclear Heat,Belgium,2006,46645
+Nuclear Heat,Belgium,2007,48227
+Nuclear Heat,Belgium,2008,45568
+Nuclear Heat,Belgium,2009,47222
+Nuclear Heat,Belgium,2010,47944
+Nuclear Heat,Belgium,2011,48234
+Nuclear Heat,Belgium,2012,40295
+Nuclear Heat,Belgium,2013,42644
+Nuclear Heat,Belgium,2014,33703
+Nuclear Heat,Belgium,2015,26103
+Nuclear Heat,Belgium,2016,43523
+Nuclear Heat,Belgium,2017,42226.8
+Nuclear Heat,Belgium,2018,28597
+Nuclear Heat,Belgium,2019,43523.6
+Nuclear Heat,Belgium,2020,34434.7
+Nuclear Heat,Belgium,2021,50326.2
+TOTAL,Belgium,1990,70923
+TOTAL,Belgium,1991,71936
+TOTAL,Belgium,1992,72225
+TOTAL,Belgium,1993,70834
+TOTAL,Belgium,1994,72179
+TOTAL,Belgium,1995,74408
+TOTAL,Belgium,1996,76099
+TOTAL,Belgium,1997,78833
+TOTAL,Belgium,1998,83183
+TOTAL,Belgium,1999,84514
+TOTAL,Belgium,2000,84012
+TOTAL,Belgium,2001,79821
+TOTAL,Belgium,2002,82069
+TOTAL,Belgium,2003,84630
+TOTAL,Belgium,2004,84204.581
+TOTAL,Belgium,2005,85405.964
+TOTAL,Belgium,2006,84324.785
+TOTAL,Belgium,2007,87849.768
+TOTAL,Belgium,2008,84143.449
+TOTAL,Belgium,2009,91091.317
+TOTAL,Belgium,2010,94315.7
+TOTAL,Belgium,2011,90294.2
+TOTAL,Belgium,2012,82745
+TOTAL,Belgium,2013,83071.6
+TOTAL,Belgium,2014,72118.7
+TOTAL,Belgium,2015,69239.1
+TOTAL,Belgium,2016,85085.4
+TOTAL,Belgium,2017,86067.9
+TOTAL,Belgium,2018,74552.6
+TOTAL,Belgium,2019,93210
+TOTAL,Belgium,2020,88957.2
+TOTAL,Belgium,2021,99958.8
+Ratio,Belgium,1990,0.602371586
+Ratio,Belgium,1991,0.595821286
+Ratio,Belgium,1992,0.60167532
+Ratio,Belgium,1993,0.591905017
+Ratio,Belgium,1994,0.562822982
+Ratio,Belgium,1995,0.555800452
+Ratio,Belgium,1996,0.569468718
+Ratio,Belgium,1997,0.601372522
+Ratio,Belgium,1998,0.554981186
+Ratio,Belgium,1999,0.579986748
+Ratio,Belgium,2000,0.573215731
+Ratio,Belgium,2001,0.580661731
+Ratio,Belgium,2002,0.577075388
+Ratio,Belgium,2003,0.559836937
+Ratio,Belgium,2004,0.561869668
+Ratio,Belgium,2005,0.557279583
+Ratio,Belgium,2006,0.553158837
+Ratio,Belgium,2007,0.548971285
+Ratio,Belgium,2008,0.541551369
+Ratio,Belgium,2009,0.518402868
+Ratio,Belgium,2010,0.508335304
+Ratio,Belgium,2011,0.534187135
+Ratio,Belgium,2012,0.486978065
+Ratio,Belgium,2013,0.513340299
+Ratio,Belgium,2014,0.467326782
+Ratio,Belgium,2015,0.376997968
+Ratio,Belgium,2016,0.511521366
+Ratio,Belgium,2017,0.490621939
+Ratio,Belgium,2018,0.383581525
+Ratio,Belgium,2019,0.466941315
+Ratio,Belgium,2020,0.387092894
+Ratio,Belgium,2021,0.503469429
+Nuclear Heat,Bulgaria,1990,14665
+Nuclear Heat,Bulgaria,1991,13184
+Nuclear Heat,Bulgaria,1992,11552
+Nuclear Heat,Bulgaria,1993,13973
+Nuclear Heat,Bulgaria,1994,15335
+Nuclear Heat,Bulgaria,1995,17261
+Nuclear Heat,Bulgaria,1996,18082
+Nuclear Heat,Bulgaria,1997,17751
+Nuclear Heat,Bulgaria,1998,16899
+Nuclear Heat,Bulgaria,1999,15814
+Nuclear Heat,Bulgaria,2000,18178
+Nuclear Heat,Bulgaria,2001,19553
+Nuclear Heat,Bulgaria,2002,20222
+Nuclear Heat,Bulgaria,2003,17280
+Nuclear Heat,Bulgaria,2004,16815
+Nuclear Heat,Bulgaria,2005,18653
+Nuclear Heat,Bulgaria,2006,19493
+Nuclear Heat,Bulgaria,2007,14643
+Nuclear Heat,Bulgaria,2008,15765
+Nuclear Heat,Bulgaria,2009,15256
+Nuclear Heat,Bulgaria,2010,15249
+Nuclear Heat,Bulgaria,2011,16314
+Nuclear Heat,Bulgaria,2012,15785
+Nuclear Heat,Bulgaria,2013,14171
+Nuclear Heat,Bulgaria,2014,15867
+Nuclear Heat,Bulgaria,2015,15383
+Nuclear Heat,Bulgaria,2016,15776
+Nuclear Heat,Bulgaria,2017,15545.499
+Nuclear Heat,Bulgaria,2018,16125.281
+Nuclear Heat,Bulgaria,2019,16555.288
+Nuclear Heat,Bulgaria,2020,16625.765
+Nuclear Heat,Bulgaria,2021,16486.894
+TOTAL,Bulgaria,1990,42141
+TOTAL,Bulgaria,1991,40862
+TOTAL,Bulgaria,1992,35610
+TOTAL,Bulgaria,1993,37997
+TOTAL,Bulgaria,1994,38133
+TOTAL,Bulgaria,1995,41789
+TOTAL,Bulgaria,1996,42716
+TOTAL,Bulgaria,1997,42803
+TOTAL,Bulgaria,1998,41711
+TOTAL,Bulgaria,1999,38248
+TOTAL,Bulgaria,2000,40924
+TOTAL,Bulgaria,2001,43968
+TOTAL,Bulgaria,2002,42679
+TOTAL,Bulgaria,2003,42600
+TOTAL,Bulgaria,2004,41620.811
+TOTAL,Bulgaria,2005,44364.483
+TOTAL,Bulgaria,2006,45843.021
+TOTAL,Bulgaria,2007,43296.861
+TOTAL,Bulgaria,2008,45036.219
+TOTAL,Bulgaria,2009,42948.39
+TOTAL,Bulgaria,2010,46638.557
+TOTAL,Bulgaria,2011,50773.608
+TOTAL,Bulgaria,2012,47278.127
+TOTAL,Bulgaria,2013,43799.948
+TOTAL,Bulgaria,2014,47475.649
+TOTAL,Bulgaria,2015,49200.899
+TOTAL,Bulgaria,2016,45245.416
+TOTAL,Bulgaria,2017,45578.788
+TOTAL,Bulgaria,2018,46815.413
+TOTAL,Bulgaria,2019,44245.594
+TOTAL,Bulgaria,2020,40718.922
+TOTAL,Bulgaria,2021,47532.793
+Ratio,Bulgaria,1990,0.347998386
+Ratio,Bulgaria,1991,0.322646958
+Ratio,Bulgaria,1992,0.324403258
+Ratio,Bulgaria,1993,0.367739558
+Ratio,Bulgaria,1994,0.402145124
+Ratio,Bulgaria,1995,0.413051281
+Ratio,Bulgaria,1996,0.423307426
+Ratio,Bulgaria,1997,0.414713922
+Ratio,Bulgaria,1998,0.405144926
+Ratio,Bulgaria,1999,0.413459527
+Ratio,Bulgaria,2000,0.444189229
+Ratio,Bulgaria,2001,0.444709789
+Ratio,Bulgaria,2002,0.473816163
+Ratio,Bulgaria,2003,0.405633803
+Ratio,Bulgaria,2004,0.404004622
+Ratio,Bulgaria,2005,0.420448943
+Ratio,Bulgaria,2006,0.425211942
+Ratio,Bulgaria,2007,0.338200037
+Ratio,Bulgaria,2008,0.350051588
+Ratio,Bulgaria,2009,0.355217041
+Ratio,Bulgaria,2010,0.326961231
+Ratio,Bulgaria,2011,0.321308661
+Ratio,Bulgaria,2012,0.333875325
+Ratio,Bulgaria,2013,0.323539197
+Ratio,Bulgaria,2014,0.334213441
+Ratio,Bulgaria,2015,0.312656889
+Ratio,Bulgaria,2016,0.348676206
+Ratio,Bulgaria,2017,0.341068723
+Ratio,Bulgaria,2018,0.344443848
+Ratio,Bulgaria,2019,0.374168058
+Ratio,Bulgaria,2020,0.408305628
+Ratio,Bulgaria,2021,0.346853045
+Nuclear Heat,Czechia,1990,12585
+Nuclear Heat,Czechia,1991,12132
+Nuclear Heat,Czechia,1992,12250
+Nuclear Heat,Czechia,1993,12627
+Nuclear Heat,Czechia,1994,12977
+Nuclear Heat,Czechia,1995,12230
+Nuclear Heat,Czechia,1996,12850
+Nuclear Heat,Czechia,1997,12494
+Nuclear Heat,Czechia,1998,13178
+Nuclear Heat,Czechia,1999,13357
+Nuclear Heat,Czechia,2000,13590
+Nuclear Heat,Czechia,2001,14749
+Nuclear Heat,Czechia,2002,18738
+Nuclear Heat,Czechia,2003,25872
+Nuclear Heat,Czechia,2004,26325
+Nuclear Heat,Czechia,2005,24728
+Nuclear Heat,Czechia,2006,26046
+Nuclear Heat,Czechia,2007,26172
+Nuclear Heat,Czechia,2008,26551
+Nuclear Heat,Czechia,2009,27208
+Nuclear Heat,Czechia,2010,27998
+Nuclear Heat,Czechia,2011,28283
+Nuclear Heat,Czechia,2012,30324
+Nuclear Heat,Czechia,2013,30745
+Nuclear Heat,Czechia,2014,30325
+Nuclear Heat,Czechia,2015,26841
+Nuclear Heat,Czechia,2016,24104
+Nuclear Heat,Czechia,2017,28339.6
+Nuclear Heat,Czechia,2018,29921.311
+Nuclear Heat,Czechia,2019,30246.209
+Nuclear Heat,Czechia,2020,30043.28
+Nuclear Heat,Czechia,2021,30731.18
+TOTAL,Czechia,1990,62559
+TOTAL,Czechia,1991,60528
+TOTAL,Czechia,1992,59293
+TOTAL,Czechia,1993,58881
+TOTAL,Czechia,1994,58705
+TOTAL,Czechia,1995,60847
+TOTAL,Czechia,1996,64257
+TOTAL,Czechia,1997,64598
+TOTAL,Czechia,1998,65112.452
+TOTAL,Czechia,1999,64694.232
+TOTAL,Czechia,2000,73464.918
+TOTAL,Czechia,2001,74647.397
+TOTAL,Czechia,2002,76347.477
+TOTAL,Czechia,2003,83226.141
+TOTAL,Czechia,2004,84333.903
+TOTAL,Czechia,2005,82578.571
+TOTAL,Czechia,2006,84359.019
+TOTAL,Czechia,2007,88199.096
+TOTAL,Czechia,2008,83645.492
+TOTAL,Czechia,2009,82185.712
+TOTAL,Czechia,2010,85819.36
+TOTAL,Czechia,2011,87390.007
+TOTAL,Czechia,2012,87344.148
+TOTAL,Czechia,2013,86838.261
+TOTAL,Czechia,2014,86059.804
+TOTAL,Czechia,2015,83809.858
+TOTAL,Czechia,2016,83214.076
+TOTAL,Czechia,2017,86952.758
+TOTAL,Czechia,2018,87912.86
+TOTAL,Czechia,2019,86931.588
+TOTAL,Czechia,2020,81449.764
+TOTAL,Czechia,2021,84945.496
+Ratio,Czechia,1990,0.201170095
+Ratio,Czechia,1991,0.200436162
+Ratio,Czechia,1992,0.206601116
+Ratio,Czechia,1993,0.214449483
+Ratio,Czechia,1994,0.221054425
+Ratio,Czechia,1995,0.200995941
+Ratio,Czechia,1996,0.199978212
+Ratio,Czechia,1997,0.193411561
+Ratio,Czechia,1998,0.202388324
+Ratio,Czechia,1999,0.206463538
+Ratio,Czechia,2000,0.184986254
+Ratio,Czechia,2001,0.197582241
+Ratio,Czechia,2002,0.245430507
+Ratio,Czechia,2003,0.310863867
+Ratio,Czechia,2004,0.312152042
+Ratio,Czechia,2005,0.299448146
+Ratio,Czechia,2006,0.308751812
+Ratio,Czechia,2007,0.296737735
+Ratio,Czechia,2008,0.317422964
+Ratio,Czechia,2009,0.331055111
+Ratio,Czechia,2010,0.326243402
+Ratio,Czechia,2011,0.323641123
+Ratio,Czechia,2012,0.347178382
+Ratio,Czechia,2013,0.354049006
+Ratio,Czechia,2014,0.352371242
+Ratio,Czechia,2015,0.320260655
+Ratio,Czechia,2016,0.289662533
+Ratio,Czechia,2017,0.325919507
+Ratio,Czechia,2018,0.340351923
+Ratio,Czechia,2019,0.347931169
+Ratio,Czechia,2020,0.368856563
+Ratio,Czechia,2021,0.361775273
+Nuclear Heat,Germany,1990,152468
+Nuclear Heat,Germany,1991,147229
+Nuclear Heat,Germany,1992,158804
+Nuclear Heat,Germany,1993,153276
+Nuclear Heat,Germany,1994,150703
+Nuclear Heat,Germany,1995,153091
+Nuclear Heat,Germany,1996,160016
+Nuclear Heat,Germany,1997,170328
+Nuclear Heat,Germany,1998,161644
+Nuclear Heat,Germany,1999,170004
+Nuclear Heat,Germany,2000,169606
+Nuclear Heat,Germany,2001,171305
+Nuclear Heat,Germany,2002,164842
+Nuclear Heat,Germany,2003,165060
+Nuclear Heat,Germany,2004,167065
+Nuclear Heat,Germany,2005,163055
+Nuclear Heat,Germany,2006,167269
+Nuclear Heat,Germany,2007,140534
+Nuclear Heat,Germany,2008,148495
+Nuclear Heat,Germany,2009,134932
+Nuclear Heat,Germany,2010,140556
+Nuclear Heat,Germany,2011,107971
+Nuclear Heat,Germany,2012,99460
+Nuclear Heat,Germany,2013,97290
+Nuclear Heat,Germany,2014,97129
+Nuclear Heat,Germany,2015,91786
+Nuclear Heat,Germany,2016,84634
+Nuclear Heat,Germany,2017,76324
+Nuclear Heat,Germany,2018,76005
+Nuclear Heat,Germany,2019,75071
+Nuclear Heat,Germany,2020,64382
+Nuclear Heat,Germany,2021,69130
+TOTAL,Germany,1990,550015
+TOTAL,Germany,1991,539634
+TOTAL,Germany,1992,537470
+TOTAL,Germany,1993,526276
+TOTAL,Germany,1994,529160
+TOTAL,Germany,1995,537284
+TOTAL,Germany,1996,555372
+TOTAL,Germany,1997,551554
+TOTAL,Germany,1998,556393
+TOTAL,Germany,1999,556300
+TOTAL,Germany,2000,576543
+TOTAL,Germany,2001,586406
+TOTAL,Germany,2002,586694
+TOTAL,Germany,2003,607213
+TOTAL,Germany,2004,616128
+TOTAL,Germany,2005,620199
+TOTAL,Germany,2006,636575
+TOTAL,Germany,2007,639230
+TOTAL,Germany,2008,639232
+TOTAL,Germany,2009,594585
+TOTAL,Germany,2010,631038
+TOTAL,Germany,2011,611023
+TOTAL,Germany,2012,626494
+TOTAL,Germany,2013,636936
+TOTAL,Germany,2014,625783
+TOTAL,Germany,2015,646484
+TOTAL,Germany,2016,648561
+TOTAL,Germany,2017,652022
+TOTAL,Germany,2018,638901
+TOTAL,Germany,2019,605430
+TOTAL,Germany,2020,573816
+TOTAL,Germany,2021,587567
+Ratio,Germany,1990,0.277206985
+Ratio,Germany,1991,0.272831215
+Ratio,Germany,1992,0.295465793
+Ratio,Germany,1993,0.291246418
+Ratio,Germany,1994,0.284796659
+Ratio,Germany,1995,0.284934969
+Ratio,Germany,1996,0.288123996
+Ratio,Germany,1997,0.308814731
+Ratio,Germany,1998,0.290521268
+Ratio,Germany,1999,0.305597699
+Ratio,Germany,2000,0.294177537
+Ratio,Germany,2001,0.292126956
+Ratio,Germany,2002,0.280967591
+Ratio,Germany,2003,0.271832125
+Ratio,Germany,2004,0.271153072
+Ratio,Germany,2005,0.262907551
+Ratio,Germany,2006,0.262764011
+Ratio,Germany,2007,0.219848881
+Ratio,Germany,2008,0.2323022
+Ratio,Germany,2009,0.226934753
+Ratio,Germany,2010,0.222737775
+Ratio,Germany,2011,0.176705296
+Ratio,Germany,2012,0.158756508
+Ratio,Germany,2013,0.152746901
+Ratio,Germany,2014,0.15521195
+Ratio,Germany,2015,0.141977218
+Ratio,Germany,2016,0.13049505
+Ratio,Germany,2017,0.1170574
+Ratio,Germany,2018,0.118962093
+Ratio,Germany,2019,0.123996168
+Ratio,Germany,2020,0.11219973
+Ratio,Germany,2021,0.117654667
+Nuclear Heat,Spain,1990,54268
+Nuclear Heat,Spain,1991,55578
+Nuclear Heat,Spain,1992,55782
+Nuclear Heat,Spain,1993,56060
+Nuclear Heat,Spain,1994,55313
+Nuclear Heat,Spain,1995,55455
+Nuclear Heat,Spain,1996,56330
+Nuclear Heat,Spain,1997,55298
+Nuclear Heat,Spain,1998,58993
+Nuclear Heat,Spain,1999,58852
+Nuclear Heat,Spain,2000,62206
+Nuclear Heat,Spain,2001,63708
+Nuclear Heat,Spain,2002,63016
+Nuclear Heat,Spain,2003,61875
+Nuclear Heat,Spain,2004,63606
+Nuclear Heat,Spain,2005,57539
+Nuclear Heat,Spain,2006,60126
+Nuclear Heat,Spain,2007,55103
+Nuclear Heat,Spain,2008,58973
+Nuclear Heat,Spain,2009,52761
+Nuclear Heat,Spain,2010,61990
+Nuclear Heat,Spain,2011,57718
+Nuclear Heat,Spain,2012,61470
+Nuclear Heat,Spain,2013,56726
+Nuclear Heat,Spain,2014,57305
+Nuclear Heat,Spain,2015,57196
+Nuclear Heat,Spain,2016,58633
+Nuclear Heat,Spain,2017,58039
+Nuclear Heat,Spain,2018,55766
+Nuclear Heat,Spain,2019,58349
+Nuclear Heat,Spain,2020,58299
+Nuclear Heat,Spain,2021,56564
+TOTAL,Spain,1990,151923
+TOTAL,Spain,1991,155801
+TOTAL,Spain,1992,158722
+TOTAL,Spain,1993,156802
+TOTAL,Spain,1994,161853
+TOTAL,Spain,1995,167090
+TOTAL,Spain,1996,174459
+TOTAL,Spain,1997,190402
+TOTAL,Spain,1998,195216
+TOTAL,Spain,1999,208247
+TOTAL,Spain,2000,224468
+TOTAL,Spain,2001,236036
+TOTAL,Spain,2002,244951
+TOTAL,Spain,2003,260706
+TOTAL,Spain,2004,277011.38
+TOTAL,Spain,2005,289089.81
+TOTAL,Spain,2006,299130.968
+TOTAL,Spain,2007,304735.208
+TOTAL,Spain,2008,313451.147
+TOTAL,Spain,2009,294279
+TOTAL,Spain,2010,301368.2
+TOTAL,Spain,2011,293676
+TOTAL,Spain,2012,297383.624
+TOTAL,Spain,2013,285631.12
+TOTAL,Spain,2014,278749.282
+TOTAL,Spain,2015,280695.454
+TOTAL,Spain,2016,274663.767
+TOTAL,Spain,2017,275635
+TOTAL,Spain,2018,274358
+TOTAL,Spain,2019,273118
+TOTAL,Spain,2020,263213
+TOTAL,Spain,2021,274032
+Ratio,Spain,1990,0.357207269
+Ratio,Spain,1991,0.356724283
+Ratio,Spain,1992,0.351444664
+Ratio,Spain,1993,0.35752095
+Ratio,Spain,1994,0.341748377
+Ratio,Spain,1995,0.331887007
+Ratio,Spain,1996,0.322883887
+Ratio,Spain,1997,0.290427622
+Ratio,Spain,1998,0.302193468
+Ratio,Spain,1999,0.282606712
+Ratio,Spain,2000,0.277126361
+Ratio,Spain,2001,0.26990798
+Ratio,Spain,2002,0.257259615
+Ratio,Spain,2003,0.23733631
+Ratio,Spain,2004,0.229615115
+Ratio,Spain,2005,0.199035033
+Ratio,Spain,2006,0.201002258
+Ratio,Spain,2007,0.180822559
+Ratio,Spain,2008,0.188140961
+Ratio,Spain,2009,0.179289042
+Ratio,Spain,2010,0.205695226
+Ratio,Spain,2011,0.196536319
+Ratio,Spain,2012,0.206702707
+Ratio,Spain,2013,0.198598808
+Ratio,Spain,2014,0.205579005
+Ratio,Spain,2015,0.203765324
+Ratio,Spain,2016,0.213471914
+Ratio,Spain,2017,0.210564696
+Ratio,Spain,2018,0.203259974
+Ratio,Spain,2019,0.213640258
+Ratio,Spain,2020,0.22148982
+Ratio,Spain,2021,0.206413849
+Nuclear Heat,Finland,1990,19216
+Nuclear Heat,Finland,1991,19511
+Nuclear Heat,Finland,1992,19260
+Nuclear Heat,Finland,1993,19928
+Nuclear Heat,Finland,1994,19427
+Nuclear Heat,Finland,1995,19216
+Nuclear Heat,Finland,1996,19476
+Nuclear Heat,Finland,1997,20894
+Nuclear Heat,Finland,1998,21853
+Nuclear Heat,Finland,1999,22974
+Nuclear Heat,Finland,2000,22479
+Nuclear Heat,Finland,2001,22773
+Nuclear Heat,Finland,2002,22295
+Nuclear Heat,Finland,2003,22731
+Nuclear Heat,Finland,2004,22716
+Nuclear Heat,Finland,2005,23271
+Nuclear Heat,Finland,2006,22906
+Nuclear Heat,Finland,2007,23423
+Nuclear Heat,Finland,2008,22958
+Nuclear Heat,Finland,2009,23526
+Nuclear Heat,Finland,2010,22800
+Nuclear Heat,Finland,2011,23187
+Nuclear Heat,Finland,2012,22987
+Nuclear Heat,Finland,2013,23606
+Nuclear Heat,Finland,2014,23580
+Nuclear Heat,Finland,2015,23245
+Nuclear Heat,Finland,2016,23203
+Nuclear Heat,Finland,2017,22477
+Nuclear Heat,Finland,2018,22793
+Nuclear Heat,Finland,2019,23870
+Nuclear Heat,Finland,2020,23291
+Nuclear Heat,Finland,2021,23598
+TOTAL,Finland,1990,54377.455
+TOTAL,Finland,1991,57985.52
+TOTAL,Finland,1992,57724.594
+TOTAL,Finland,1993,61078.672
+TOTAL,Finland,1994,65630.751
+TOTAL,Finland,1995,64034.837
+TOTAL,Finland,1996,69372.982
+TOTAL,Finland,1997,69176.208
+TOTAL,Finland,1998,70167.292
+TOTAL,Finland,1999,69457.417
+TOTAL,Finland,2000,69784.903
+TOTAL,Finland,2001,74307.387
+TOTAL,Finland,2002,74720.177
+TOTAL,Finland,2003,84080.35
+TOTAL,Finland,2004,85588.372
+TOTAL,Finland,2005,70335.575
+TOTAL,Finland,2006,82062.332
+TOTAL,Finland,2007,80994.346
+TOTAL,Finland,2008,77005.34
+TOTAL,Finland,2009,71775.997
+TOTAL,Finland,2010,80364.761
+TOTAL,Finland,2011,73202.395
+TOTAL,Finland,2012,70090.766
+TOTAL,Finland,2013,70969.443
+TOTAL,Finland,2014,67803.524
+TOTAL,Finland,2015,68350.087
+TOTAL,Finland,2016,68491.176
+TOTAL,Finland,2017,67123.666
+TOTAL,Finland,2018,69982.128
+TOTAL,Finland,2019,68386.852
+TOTAL,Finland,2020,68722.546
+TOTAL,Finland,2021,71538.367
+Ratio,Finland,1990,0.353381746
+Ratio,Finland,1991,0.336480556
+Ratio,Finland,1992,0.333653278
+Ratio,Finland,1993,0.326267735
+Ratio,Finland,1994,0.296004536
+Ratio,Finland,1995,0.300086654
+Ratio,Finland,1996,0.280743301
+Ratio,Finland,1997,0.302040262
+Ratio,Finland,1998,0.311441405
+Ratio,Finland,1999,0.330763812
+Ratio,Finland,2000,0.322118381
+Ratio,Finland,2001,0.306470203
+Ratio,Finland,2002,0.298379914
+Ratio,Finland,2003,0.270348542
+Ratio,Finland,2004,0.265409885
+Ratio,Finland,2005,0.330856753
+Ratio,Finland,2006,0.279129284
+Ratio,Finland,2007,0.289193026
+Ratio,Finland,2008,0.298135168
+Ratio,Finland,2009,0.327769742
+Ratio,Finland,2010,0.283706437
+Ratio,Finland,2011,0.316751931
+Ratio,Finland,2012,0.327960462
+Ratio,Finland,2013,0.332622027
+Ratio,Finland,2014,0.347769535
+Ratio,Finland,2015,0.340087351
+Ratio,Finland,2016,0.338773567
+Ratio,Finland,2017,0.334859541
+Ratio,Finland,2018,0.325697441
+Ratio,Finland,2019,0.349043702
+Ratio,Finland,2020,0.33891352
+Ratio,Finland,2021,0.329864952
+Nuclear Heat,France,1990,314081
+Nuclear Heat,France,1991,331340
+Nuclear Heat,France,1992,338445
+Nuclear Heat,France,1993,368188
+Nuclear Heat,France,1994,359981
+Nuclear Heat,France,1995,377231
+Nuclear Heat,France,1996,397340
+Nuclear Heat,France,1997,395483
+Nuclear Heat,France,1998,387990
+Nuclear Heat,France,1999,394244
+Nuclear Heat,France,2000,415162
+Nuclear Heat,France,2001,421076
+Nuclear Heat,France,2002,436760
+Nuclear Heat,France,2003,441070
+Nuclear Heat,France,2004,448241
+Nuclear Heat,France,2005,451529
+Nuclear Heat,France,2006,450191
+Nuclear Heat,France,2007,439730
+Nuclear Heat,France,2008,439447
+Nuclear Heat,France,2009,409736
+Nuclear Heat,France,2010,428521
+Nuclear Heat,France,2011,442387.763
+Nuclear Heat,France,2012,425406.017
+Nuclear Heat,France,2013,423684.671
+Nuclear Heat,France,2014,436479.009
+Nuclear Heat,France,2015,437427.808
+Nuclear Heat,France,2016,403195.482
+Nuclear Heat,France,2017,398359.129
+Nuclear Heat,France,2018,412941.812
+Nuclear Heat,France,2019,399011.587
+Nuclear Heat,France,2020,353832.867
+Nuclear Heat,France,2021,379361.292
+TOTAL,France,1990,420752.272
+TOTAL,France,1991,455556.49
+TOTAL,France,1992,463639.796
+TOTAL,France,1993,472707.857
+TOTAL,France,1994,476867.312
+TOTAL,France,1995,494273.951
+TOTAL,France,1996,513397.815
+TOTAL,France,1997,504769.567
+TOTAL,France,1998,511276.667
+TOTAL,France,1999,525806.227
+TOTAL,France,2000,539954.939
+TOTAL,France,2001,549530.761
+TOTAL,France,2002,559064.739
+TOTAL,France,2003,566838.525
+TOTAL,France,2004,574054.409
+TOTAL,France,2005,576061.843
+TOTAL,France,2006,574870.645
+TOTAL,France,2007,569464.391
+TOTAL,France,2008,573565.794
+TOTAL,France,2009,535684.135
+TOTAL,France,2010,569153.117
+TOTAL,France,2011,572559.588
+TOTAL,France,2012,572008.331
+TOTAL,France,2013,581624.288
+TOTAL,France,2014,571998.859
+TOTAL,France,2015,578874.685
+TOTAL,France,2016,563488.933
+TOTAL,France,2017,561223.269
+TOTAL,France,2018,581190.954
+TOTAL,France,2019,570390.674
+TOTAL,France,2020,531763.976
+TOTAL,France,2021,554727.756
+Ratio,France,1990,0.746474876
+Ratio,France,1991,0.727330215
+Ratio,France,1992,0.729974008
+Ratio,France,1993,0.778891221
+Ratio,France,1994,0.754887137
+Ratio,France,1995,0.763202267
+Ratio,France,1996,0.773941743
+Ratio,France,1997,0.783492163
+Ratio,France,1998,0.758865063
+Ratio,France,1999,0.749789523
+Ratio,France,2000,0.768882679
+Ratio,France,2001,0.766246459
+Ratio,France,2002,0.781233316
+Ratio,France,2003,0.778122835
+Ratio,France,2004,0.780833651
+Ratio,France,2005,0.783820358
+Ratio,France,2006,0.783117044
+Ratio,France,2007,0.772181732
+Ratio,France,2008,0.76616668
+Ratio,France,2009,0.764883582
+Ratio,France,2010,0.752909871
+Ratio,France,2011,0.772649297
+Ratio,France,2012,0.743705981
+Ratio,France,2013,0.728450788
+Ratio,France,2014,0.763076713
+Ratio,France,2015,0.755651991
+Ratio,France,2016,0.715533985
+Ratio,France,2017,0.709805083
+Ratio,France,2018,0.710509703
+Ratio,France,2019,0.699540868
+Ratio,France,2020,0.665394579
+Ratio,France,2021,0.683869318
+Nuclear Heat,Hungary,1990,13731
+Nuclear Heat,Hungary,1991,13726
+Nuclear Heat,Hungary,1992,13964
+Nuclear Heat,Hungary,1993,13796
+Nuclear Heat,Hungary,1994,14049
+Nuclear Heat,Hungary,1995,14026
+Nuclear Heat,Hungary,1996,14180
+Nuclear Heat,Hungary,1997,13968
+Nuclear Heat,Hungary,1998,13949
+Nuclear Heat,Hungary,1999,14096
+Nuclear Heat,Hungary,2000,14180
+Nuclear Heat,Hungary,2001,14126
+Nuclear Heat,Hungary,2002,13953
+Nuclear Heat,Hungary,2003,11013
+Nuclear Heat,Hungary,2004,11915
+Nuclear Heat,Hungary,2005,13834
+Nuclear Heat,Hungary,2006,13461
+Nuclear Heat,Hungary,2007,14677
+Nuclear Heat,Hungary,2008,14818
+Nuclear Heat,Hungary,2009,15426
+Nuclear Heat,Hungary,2010,15761
+Nuclear Heat,Hungary,2011,15685
+Nuclear Heat,Hungary,2012,15793
+Nuclear Heat,Hungary,2013,15370
+Nuclear Heat,Hungary,2014,15649
+Nuclear Heat,Hungary,2015,15834
+Nuclear Heat,Hungary,2016,16054
+Nuclear Heat,Hungary,2017,16098
+Nuclear Heat,Hungary,2018,15733
+Nuclear Heat,Hungary,2019,16288
+Nuclear Heat,Hungary,2020,16055
+Nuclear Heat,Hungary,2021,15990
+TOTAL,Hungary,1990,28436
+TOTAL,Hungary,1991,29963
+TOTAL,Hungary,1992,31685
+TOTAL,Hungary,1993,32915
+TOTAL,Hungary,1994,33515
+TOTAL,Hungary,1995,34018.385
+TOTAL,Hungary,1996,35089.942
+TOTAL,Hungary,1997,35396.937
+TOTAL,Hungary,1998,37190.153
+TOTAL,Hungary,1999,37831.621
+TOTAL,Hungary,2000,35190.778
+TOTAL,Hungary,2001,36415.229
+TOTAL,Hungary,2002,36156.972
+TOTAL,Hungary,2003,34144.683
+TOTAL,Hungary,2004,33707.385
+TOTAL,Hungary,2005,35755.275
+TOTAL,Hungary,2006,35859.05
+TOTAL,Hungary,2007,39959.577
+TOTAL,Hungary,2008,40025.594
+TOTAL,Hungary,2009,35908.015
+TOTAL,Hungary,2010,37370.145
+TOTAL,Hungary,2011,36019.176
+TOTAL,Hungary,2012,34634.111
+TOTAL,Hungary,2013,30260.276
+TOTAL,Hungary,2014,29347.943
+TOTAL,Hungary,2015,30297.816
+TOTAL,Hungary,2016,31823.524
+TOTAL,Hungary,2017,32833
+TOTAL,Hungary,2018,31928
+TOTAL,Hungary,2019,34180
+TOTAL,Hungary,2020,34787
+TOTAL,Hungary,2021,35975.3
+Ratio,Hungary,1990,0.482873822
+Ratio,Hungary,1991,0.458098321
+Ratio,Hungary,1992,0.440713271
+Ratio,Hungary,1993,0.41914021
+Ratio,Hungary,1994,0.419185439
+Ratio,Hungary,1995,0.412306463
+Ratio,Hungary,1996,0.404104401
+Ratio,Hungary,1997,0.394610415
+Ratio,Hungary,1998,0.375072402
+Ratio,Hungary,1999,0.372598362
+Ratio,Hungary,2000,0.402946476
+Ratio,Hungary,2001,0.387914628
+Ratio,Hungary,2002,0.385900678
+Ratio,Hungary,2003,0.322539237
+Ratio,Hungary,2004,0.353483369
+Ratio,Hungary,2005,0.386907946
+Ratio,Hungary,2006,0.375386409
+Ratio,Hungary,2007,0.36729618
+Ratio,Hungary,2008,0.370213119
+Ratio,Hungary,2009,0.429597682
+Ratio,Hungary,2010,0.421753782
+Ratio,Hungary,2011,0.435462488
+Ratio,Hungary,2012,0.455995536
+Ratio,Hungary,2013,0.50792663
+Ratio,Hungary,2014,0.533223061
+Ratio,Hungary,2015,0.522611927
+Ratio,Hungary,2016,0.504469587
+Ratio,Hungary,2017,0.490299394
+Ratio,Hungary,2018,0.492764971
+Ratio,Hungary,2019,0.476535986
+Ratio,Hungary,2020,0.461522983
+Ratio,Hungary,2021,0.444471624
+Nuclear Heat,Netherlands,1990,3502
+Nuclear Heat,Netherlands,1991,3329
+Nuclear Heat,Netherlands,1992,3800
+Nuclear Heat,Netherlands,1993,3948
+Nuclear Heat,Netherlands,1994,3967
+Nuclear Heat,Netherlands,1995,4018
+Nuclear Heat,Netherlands,1996,4160
+Nuclear Heat,Netherlands,1997,2408
+Nuclear Heat,Netherlands,1998,3814
+Nuclear Heat,Netherlands,1999,3832
+Nuclear Heat,Netherlands,2000,3926
+Nuclear Heat,Netherlands,2001,3976
+Nuclear Heat,Netherlands,2002,3915
+Nuclear Heat,Netherlands,2003,4018
+Nuclear Heat,Netherlands,2004,3822
+Nuclear Heat,Netherlands,2005,3997
+Nuclear Heat,Netherlands,2006,3469
+Nuclear Heat,Netherlands,2007,4200
+Nuclear Heat,Netherlands,2008,4169
+Nuclear Heat,Netherlands,2009,4248
+Nuclear Heat,Netherlands,2010,3969
+Nuclear Heat,Netherlands,2011,4141
+Nuclear Heat,Netherlands,2012,3915
+Nuclear Heat,Netherlands,2013,2891
+Nuclear Heat,Netherlands,2014,4091
+Nuclear Heat,Netherlands,2015,4078.041
+Nuclear Heat,Netherlands,2016,3960.278
+Nuclear Heat,Netherlands,2017,3402.478
+Nuclear Heat,Netherlands,2018,3514.77
+Nuclear Heat,Netherlands,2019,3909.748
+Nuclear Heat,Netherlands,2020,4087.363
+Nuclear Heat,Netherlands,2021,3827.956
+TOTAL,Netherlands,1990,71794.102
+TOTAL,Netherlands,1991,74263.14
+TOTAL,Netherlands,1992,77050.233
+TOTAL,Netherlands,1993,76945.177
+TOTAL,Netherlands,1994,79649.581
+TOTAL,Netherlands,1995,80870.238
+TOTAL,Netherlands,1996,85187.456
+TOTAL,Netherlands,1997,86285.735
+TOTAL,Netherlands,1998,90902.507
+TOTAL,Netherlands,1999,86542.436
+TOTAL,Netherlands,2000,89383.027
+TOTAL,Netherlands,2001,93421.405
+TOTAL,Netherlands,2002,95755.021
+TOTAL,Netherlands,2003,96596.619
+TOTAL,Netherlands,2004,101010.681
+TOTAL,Netherlands,2005,99660.539
+TOTAL,Netherlands,2006,98685.122
+TOTAL,Netherlands,2007,104989.301
+TOTAL,Netherlands,2008,107403.973
+TOTAL,Netherlands,2009,113559.499
+TOTAL,Netherlands,2010,119115.286
+TOTAL,Netherlands,2011,113813.185
+TOTAL,Netherlands,2012,103088.009
+TOTAL,Netherlands,2013,101507.228
+TOTAL,Netherlands,2014,103212.364
+TOTAL,Netherlands,2015,108803.785
+TOTAL,Netherlands,2016,113828.688
+TOTAL,Netherlands,2017,115647.582
+TOTAL,Netherlands,2018,113673.169
+TOTAL,Netherlands,2019,120808.022
+TOTAL,Netherlands,2020,122774.451
+TOTAL,Netherlands,2021,121609.995
+Ratio,Netherlands,1990,0.04877838
+Ratio,Netherlands,1991,0.044827084
+Ratio,Netherlands,1992,0.049318475
+Ratio,Netherlands,1993,0.051309259
+Ratio,Netherlands,1994,0.049805661
+Ratio,Netherlands,1995,0.049684533
+Ratio,Netherlands,1996,0.048833481
+Ratio,Netherlands,1997,0.027907278
+Ratio,Netherlands,1998,0.041957039
+Ratio,Netherlands,1999,0.044278855
+Ratio,Netherlands,2000,0.043923328
+Ratio,Netherlands,2001,0.042559839
+Ratio,Netherlands,2002,0.040885584
+Ratio,Netherlands,2003,0.041595659
+Ratio,Netherlands,2004,0.037837583
+Ratio,Netherlands,2005,0.040106145
+Ratio,Netherlands,2006,0.035152209
+Ratio,Netherlands,2007,0.040004076
+Ratio,Netherlands,2008,0.038816069
+Ratio,Netherlands,2009,0.037407703
+Ratio,Netherlands,2010,0.03332066
+Ratio,Netherlands,2011,0.036384185
+Ratio,Netherlands,2012,0.037977259
+Ratio,Netherlands,2013,0.02848073
+Ratio,Netherlands,2014,0.039636724
+Ratio,Netherlands,2015,0.037480691
+Ratio,Netherlands,2016,0.034791563
+Ratio,Netherlands,2017,0.029421091
+Ratio,Netherlands,2018,0.030919961
+Ratio,Netherlands,2019,0.032363314
+Ratio,Netherlands,2020,0.033291641
+Ratio,Netherlands,2021,0.031477314
+Nuclear Heat,Romania,1990,0
+Nuclear Heat,Romania,1991,0
+Nuclear Heat,Romania,1992,0
+Nuclear Heat,Romania,1993,0
+Nuclear Heat,Romania,1994,0
+Nuclear Heat,Romania,1995,0
+Nuclear Heat,Romania,1996,1386
+Nuclear Heat,Romania,1997,5400
+Nuclear Heat,Romania,1998,5307
+Nuclear Heat,Romania,1999,5198
+Nuclear Heat,Romania,2000,5456
+Nuclear Heat,Romania,2001,5446
+Nuclear Heat,Romania,2002,5513
+Nuclear Heat,Romania,2003,4906
+Nuclear Heat,Romania,2004,5548
+Nuclear Heat,Romania,2005,5555
+Nuclear Heat,Romania,2006,5632
+Nuclear Heat,Romania,2007,7709
+Nuclear Heat,Romania,2008,11226
+Nuclear Heat,Romania,2009,11752
+Nuclear Heat,Romania,2010,11623
+Nuclear Heat,Romania,2011,11747
+Nuclear Heat,Romania,2012,11466
+Nuclear Heat,Romania,2013,11618
+Nuclear Heat,Romania,2014,11676
+Nuclear Heat,Romania,2015,11640
+Nuclear Heat,Romania,2016,11286
+Nuclear Heat,Romania,2017,11508.865
+Nuclear Heat,Romania,2018,11377.435
+Nuclear Heat,Romania,2019,11280.167
+Nuclear Heat,Romania,2020,11466.404
+Nuclear Heat,Romania,2021,11284.32
+TOTAL,Romania,1990,64309
+TOTAL,Romania,1991,56803
+TOTAL,Romania,1992,54016
+TOTAL,Romania,1993,55360
+TOTAL,Romania,1994,55027
+TOTAL,Romania,1995,59059
+TOTAL,Romania,1996,61028
+TOTAL,Romania,1997,56729
+TOTAL,Romania,1998,52987
+TOTAL,Romania,1999,50464
+TOTAL,Romania,2000,51560
+TOTAL,Romania,2001,53541
+TOTAL,Romania,2002,54418
+TOTAL,Romania,2003,54841
+TOTAL,Romania,2004,56499.053
+TOTAL,Romania,2005,59413.08
+TOTAL,Romania,2006,62697.352
+TOTAL,Romania,2007,61673.483
+TOTAL,Romania,2008,64956.617
+TOTAL,Romania,2009,58014.149
+TOTAL,Romania,2010,60978.856
+TOTAL,Romania,2011,62214.975
+TOTAL,Romania,2012,59044.856
+TOTAL,Romania,2013,58886.249
+TOTAL,Romania,2014,65674.622
+TOTAL,Romania,2015,66294.932
+TOTAL,Romania,2016,65103.043
+TOTAL,Romania,2017,64296.019
+TOTAL,Romania,2018,64876.464
+TOTAL,Romania,2019,59622.805
+TOTAL,Romania,2020,55934.902
+TOTAL,Romania,2021,59470.264
+Ratio,Romania,1990,0
+Ratio,Romania,1991,0
+Ratio,Romania,1992,0
+Ratio,Romania,1993,0
+Ratio,Romania,1994,0
+Ratio,Romania,1995,0
+Ratio,Romania,1996,0.022710887
+Ratio,Romania,1997,0.095189409
+Ratio,Romania,1998,0.100156642
+Ratio,Romania,1999,0.103004122
+Ratio,Romania,2000,0.105818464
+Ratio,Romania,2001,0.101716442
+Ratio,Romania,2002,0.101308391
+Ratio,Romania,2003,0.089458617
+Ratio,Romania,2004,0.098196336
+Ratio,Romania,2005,0.09349793
+Ratio,Romania,2006,0.089828355
+Ratio,Romania,2007,0.124996994
+Ratio,Romania,2008,0.17282304
+Ratio,Romania,2009,0.202571273
+Ratio,Romania,2010,0.190607052
+Ratio,Romania,2011,0.188813063
+Ratio,Romania,2012,0.194191345
+Ratio,Romania,2013,0.197295637
+Ratio,Romania,2014,0.177785568
+Ratio,Romania,2015,0.175579032
+Ratio,Romania,2016,0.173355952
+Ratio,Romania,2017,0.178998096
+Ratio,Romania,2018,0.175370763
+Ratio,Romania,2019,0.189192156
+Ratio,Romania,2020,0.204995514
+Ratio,Romania,2021,0.189747266
+Nuclear Heat,Slovenia,1990,4622
+Nuclear Heat,Slovenia,1991,4952
+Nuclear Heat,Slovenia,1992,3971
+Nuclear Heat,Slovenia,1993,3956
+Nuclear Heat,Slovenia,1994,4609
+Nuclear Heat,Slovenia,1995,4779
+Nuclear Heat,Slovenia,1996,4647
+Nuclear Heat,Slovenia,1997,5019
+Nuclear Heat,Slovenia,1998,5042
+Nuclear Heat,Slovenia,1999,4696
+Nuclear Heat,Slovenia,2000,4761
+Nuclear Heat,Slovenia,2001,5257
+Nuclear Heat,Slovenia,2002,5528
+Nuclear Heat,Slovenia,2003,5207
+Nuclear Heat,Slovenia,2004,5459
+Nuclear Heat,Slovenia,2005,5884
+Nuclear Heat,Slovenia,2006,5548
+Nuclear Heat,Slovenia,2007,5695
+Nuclear Heat,Slovenia,2008,6273
+Nuclear Heat,Slovenia,2009,5739
+Nuclear Heat,Slovenia,2010,5657
+Nuclear Heat,Slovenia,2011,6215
+Nuclear Heat,Slovenia,2012,5528
+Nuclear Heat,Slovenia,2013,5300
+Nuclear Heat,Slovenia,2014,6370
+Nuclear Heat,Slovenia,2015,5648
+Nuclear Heat,Slovenia,2016,5715
+Nuclear Heat,Slovenia,2017,6285.272
+Nuclear Heat,Slovenia,2018,5776.439
+Nuclear Heat,Slovenia,2019,5821.257
+Nuclear Heat,Slovenia,2020,6352.766
+Nuclear Heat,Slovenia,2021,5705.951
+TOTAL,Slovenia,1990,12444
+TOTAL,Slovenia,1991,12744
+TOTAL,Slovenia,1992,12344
+TOTAL,Slovenia,1993,11946
+TOTAL,Slovenia,1994,12895
+TOTAL,Slovenia,1995,12913
+TOTAL,Slovenia,1996,13057
+TOTAL,Slovenia,1997,13176
+TOTAL,Slovenia,1998,13728
+TOTAL,Slovenia,1999,13262
+TOTAL,Slovenia,2000,13624.451
+TOTAL,Slovenia,2001,14465.662
+TOTAL,Slovenia,2002,14598.062
+TOTAL,Slovenia,2003,13820.446
+TOTAL,Slovenia,2004,15271.241
+TOTAL,Slovenia,2005,15116.345
+TOTAL,Slovenia,2006,15113.206
+TOTAL,Slovenia,2007,15043.496
+TOTAL,Slovenia,2008,16398.019
+TOTAL,Slovenia,2009,16403.179
+TOTAL,Slovenia,2010,16438.25
+TOTAL,Slovenia,2011,16057.989
+TOTAL,Slovenia,2012,15736.032
+TOTAL,Slovenia,2013,16102.815
+TOTAL,Slovenia,2014,17437.741
+TOTAL,Slovenia,2015,15099.622
+TOTAL,Slovenia,2016,16501.868
+TOTAL,Slovenia,2017,16326.225
+TOTAL,Slovenia,2018,16326.935
+TOTAL,Slovenia,2019,16099.564
+TOTAL,Slovenia,2020,17190.698
+TOTAL,Slovenia,2021,15876.922
+Ratio,Slovenia,1990,0.371423979
+Ratio,Slovenia,1991,0.388575016
+Ratio,Slovenia,1992,0.32169475
+Ratio,Slovenia,1993,0.331156873
+Ratio,Slovenia,1994,0.357425359
+Ratio,Slovenia,1995,0.370092155
+Ratio,Slovenia,1996,0.355901049
+Ratio,Slovenia,1997,0.380919854
+Ratio,Slovenia,1998,0.367278555
+Ratio,Slovenia,1999,0.354094405
+Ratio,Slovenia,2000,0.349445273
+Ratio,Slovenia,2001,0.363412335
+Ratio,Slovenia,2002,0.378680403
+Ratio,Slovenia,2003,0.376760634
+Ratio,Slovenia,2004,0.357469311
+Ratio,Slovenia,2005,0.389247533
+Ratio,Slovenia,2006,0.367096167
+Ratio,Slovenia,2007,0.378568918
+Ratio,Slovenia,2008,0.382546209
+Ratio,Slovenia,2009,0.349871205
+Ratio,Slovenia,2010,0.344136389
+Ratio,Slovenia,2011,0.387034765
+Ratio,Slovenia,2012,0.351295676
+Ratio,Slovenia,2013,0.329134999
+Ratio,Slovenia,2014,0.365299611
+Ratio,Slovenia,2015,0.374049099
+Ratio,Slovenia,2016,0.346324428
+Ratio,Slovenia,2017,0.384980116
+Ratio,Slovenia,2018,0.353798126
+Ratio,Slovenia,2019,0.36157855
+Ratio,Slovenia,2020,0.369546716
+Ratio,Slovenia,2021,0.359386473
+Nuclear Heat,Slovakia,1990,12036
+Nuclear Heat,Slovakia,1991,11689
+Nuclear Heat,Slovakia,1992,11050
+Nuclear Heat,Slovakia,1993,11486
+Nuclear Heat,Slovakia,1994,12595
+Nuclear Heat,Slovakia,1995,11437
+Nuclear Heat,Slovakia,1996,11249
+Nuclear Heat,Slovakia,1997,11073
+Nuclear Heat,Slovakia,1998,11394
+Nuclear Heat,Slovakia,1999,13117
+Nuclear Heat,Slovakia,2000,16494
+Nuclear Heat,Slovakia,2001,17103
+Nuclear Heat,Slovakia,2002,17953
+Nuclear Heat,Slovakia,2003,17864
+Nuclear Heat,Slovakia,2004,17026
+Nuclear Heat,Slovakia,2005,17727
+Nuclear Heat,Slovakia,2006,18012
+Nuclear Heat,Slovakia,2007,15334
+Nuclear Heat,Slovakia,2008,16703
+Nuclear Heat,Slovakia,2009,14081
+Nuclear Heat,Slovakia,2010,14574
+Nuclear Heat,Slovakia,2011,15411
+Nuclear Heat,Slovakia,2012,15495
+Nuclear Heat,Slovakia,2013,15720
+Nuclear Heat,Slovakia,2014,15499
+Nuclear Heat,Slovakia,2015,15146
+Nuclear Heat,Slovakia,2016,14774
+Nuclear Heat,Slovakia,2017,15081
+Nuclear Heat,Slovakia,2018,14843
+Nuclear Heat,Slovakia,2019,15282
+Nuclear Heat,Slovakia,2020,15444
+Nuclear Heat,Slovakia,2021,15730
+TOTAL,Slovakia,1990,26132
+TOTAL,Slovakia,1991,24747
+TOTAL,Slovakia,1992,23627
+TOTAL,Slovakia,1993,24442
+TOTAL,Slovakia,1994,25712.167
+TOTAL,Slovakia,1995,26774.334
+TOTAL,Slovakia,1996,25760.167
+TOTAL,Slovakia,1997,25347
+TOTAL,Slovakia,1998,26032
+TOTAL,Slovakia,1999,28407
+TOTAL,Slovakia,2000,31158
+TOTAL,Slovakia,2001,32026.4
+TOTAL,Slovakia,2002,32407
+TOTAL,Slovakia,2003,31158
+TOTAL,Slovakia,2004,30547
+TOTAL,Slovakia,2005,31435
+TOTAL,Slovakia,2006,31368.314
+TOTAL,Slovakia,2007,28005
+TOTAL,Slovakia,2008,28923.332
+TOTAL,Slovakia,2009,26115.561
+TOTAL,Slovakia,2010,27817.942
+TOTAL,Slovakia,2011,28578.187
+TOTAL,Slovakia,2012,28595
+TOTAL,Slovakia,2013,28763
+TOTAL,Slovakia,2014,27283
+TOTAL,Slovakia,2015,26803
+TOTAL,Slovakia,2016,26934
+TOTAL,Slovakia,2017,27583
+TOTAL,Slovakia,2018,26855
+TOTAL,Slovakia,2019,28401
+TOTAL,Slovakia,2020,28807
+TOTAL,Slovakia,2021,30251
+Ratio,Slovakia,1990,0.460584724
+Ratio,Slovakia,1991,0.472340082
+Ratio,Slovakia,1992,0.467685275
+Ratio,Slovakia,1993,0.469928811
+Ratio,Slovakia,1994,0.489845916
+Ratio,Slovakia,1995,0.427162819
+Ratio,Slovakia,1996,0.436681952
+Ratio,Slovakia,1997,0.436856433
+Ratio,Slovakia,1998,0.437692071
+Ratio,Slovakia,1999,0.461752385
+Ratio,Slovakia,2000,0.529366455
+Ratio,Slovakia,2001,0.534028177
+Ratio,Slovakia,2002,0.55398525
+Ratio,Slovakia,2003,0.573335901
+Ratio,Slovakia,2004,0.557370609
+Ratio,Slovakia,2005,0.563925561
+Ratio,Slovakia,2006,0.574210013
+Ratio,Slovakia,2007,0.547545081
+Ratio,Slovakia,2008,0.577492247
+Ratio,Slovakia,2009,0.539180453
+Ratio,Slovakia,2010,0.523906477
+Ratio,Slovakia,2011,0.539257441
+Ratio,Slovakia,2012,0.541877951
+Ratio,Slovakia,2013,0.54653548
+Ratio,Slovakia,2014,0.568082689
+Ratio,Slovakia,2015,0.565085998
+Ratio,Slovakia,2016,0.548526027
+Ratio,Slovakia,2017,0.54674981
+Ratio,Slovakia,2018,0.552708993
+Ratio,Slovakia,2019,0.538079645
+Ratio,Slovakia,2020,0.536119693
+Ratio,Slovakia,2021,0.51998281
+Nuclear Heat,UK,1990,65749
+Nuclear Heat,UK,1991,70543
+Nuclear Heat,UK,1992,76807
+Nuclear Heat,UK,1993,89353
+Nuclear Heat,UK,1994,88282
+Nuclear Heat,UK,1995,88964
+Nuclear Heat,UK,1996,94671
+Nuclear Heat,UK,1997,98146
+Nuclear Heat,UK,1998,99486
+Nuclear Heat,UK,1999,95133
+Nuclear Heat,UK,2000,85063
+Nuclear Heat,UK,2001,90094
+Nuclear Heat,UK,2002,87848
+Nuclear Heat,UK,2003,88686
+Nuclear Heat,UK,2004,79999
+Nuclear Heat,UK,2005,81618
+Nuclear Heat,UK,2006,75451
+Nuclear Heat,UK,2007,63028
+Nuclear Heat,UK,2008,52486
+Nuclear Heat,UK,2009,69098
+Nuclear Heat,UK,2010,62140
+Nuclear Heat,UK,2011,68980
+Nuclear Heat,UK,2012,70405
+Nuclear Heat,UK,2013,70607
+Nuclear Heat,UK,2014,63748
+Nuclear Heat,UK,2015,70344.902
+Nuclear Heat,UK,2016,71726.081
+Nuclear Heat,UK,2017,70336.426
+Nuclear Heat,UK,2018,65063.849
+Nuclear Heat,UK,2019,56183.934
+TOTAL,UK,1990,319737
+TOTAL,UK,1991,322875
+TOTAL,UK,1992,321043
+TOTAL,UK,1993,323102
+TOTAL,UK,1994,326487
+TOTAL,UK,1995,334041
+TOTAL,UK,1996,350869
+TOTAL,UK,1997,350666
+TOTAL,UK,1998,362703
+TOTAL,UK,1999,368152
+TOTAL,UK,2000,377069
+TOTAL,UK,2001,384789.92
+TOTAL,UK,2002,387245.092
+TOTAL,UK,2003,398200.378
+TOTAL,UK,2004,393927.966
+TOTAL,UK,2005,398354.743
+TOTAL,UK,2006,397284.054
+TOTAL,UK,2007,396832.515
+TOTAL,UK,2008,388920.18
+TOTAL,UK,2009,376755.153
+TOTAL,UK,2010,382069.873
+TOTAL,UK,2011,367984.059
+TOTAL,UK,2012,363878.834
+TOTAL,UK,2013,358289.249
+TOTAL,UK,2014,338100.664
+TOTAL,UK,2015,338086.412
+TOTAL,UK,2016,339217.123
+TOTAL,UK,2017,337976.878
+TOTAL,UK,2018,333002.678
+TOTAL,UK,2019,323431.769
+Ratio,UK,1990,0.205634631
+Ratio,UK,1991,0.218483933
+Ratio,UK,1992,0.239242095
+Ratio,UK,1993,0.276547344
+Ratio,UK,1994,0.27039974
+Ratio,UK,1995,0.266326589
+Ratio,UK,1996,0.26981865
+Ratio,UK,1997,0.279884563
+Ratio,UK,1998,0.274290535
+Ratio,UK,1999,0.258406854
+Ratio,UK,2000,0.225590011
+Ratio,UK,2001,0.23413815
+Ratio,UK,2002,0.226853747
+Ratio,UK,2003,0.222717016
+Ratio,UK,2004,0.203080276
+Ratio,UK,2005,0.204887732
+Ratio,UK,2006,0.189917011
+Ratio,UK,2007,0.158827711
+Ratio,UK,2008,0.134953141
+Ratio,UK,2009,0.183402933
+Ratio,UK,2010,0.162640408
+Ratio,UK,2011,0.187453772
+Ratio,UK,2012,0.193484736
+Ratio,UK,2013,0.197067035
+Ratio,UK,2014,0.188547397
+Ratio,UK,2015,0.208067818
+Ratio,UK,2016,0.211445933
+Ratio,UK,2017,0.208110171
+Ratio,UK,2018,0.195385363
+Ratio,UK,2019,0.173711859
