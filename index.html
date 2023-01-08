@@ -18,7 +18,7 @@
 
 <body>
 <h1>Data Science for Economists.</h1>
-<h2>Portfolio tasks</h2>
+<h2>Portfolio tasks | <a href="https://lmac123.github.io/project">Project</a></h2>
 
 <div class="myWeek1" id="outer1">
     <h2>Week 1</h2>
@@ -63,18 +63,17 @@
     <h3>Maturity and yields of different bonds</h3>
 
     <div id="inner">
-        <h3>Bar Chart</h3>
     <div class="chart" id="Chart5"></div></div>
 
     <div id="inner">
-        <h3>Line Chart</h3>
     <div class="chart" id="Chart6"> </div></div>
-    <p>The second chart is more precise in showing the small variations of the yields of bonds as the bars do not obscure the tiny increases and decreases in yield.</p>
+    <p>The second chart is more precise in showing the small variations of the yields of bonds as the bars do not obscure the tiny changes in yield.</p>
     </div>
 
 <div class="myWeek1">
     <h2>Week 4</h2>
-    <p>This week we had to build a graph using data we scraped off of a website. I looked at the average electricity usage per year per capita across the world as it is relevant for my project.
+    <p>This week we had to build a graph using data we scraped off of a website.
+         I looked at the <a href="https://en.wikipedia.org/wiki/List_of_countries_by_electricity_consumption">average electricity usage per year per capita</a> across the world as it is relevant for my project. Here is my <a href="https://colab.research.google.com/drive/1iecmT1dO2lFqY7zk1ATvGxB0n3fV8ih2?usp=sharing">Colab notebook</a>.
         Hover your mouse over the bars to see the corresponding country and value.
     </p>
 
@@ -84,9 +83,8 @@
 
 <div class="week2">
     <h2>Week 5</h2>
-    <p>This week we had to build a dashboard of 9 graphs about the UK's economy. 
-        I chose to do graphs about: current government receipts, expenditure, investment, borrowing, government stock, net social benefits, taxes on income and wealth, and tax on VAT. 
-        Here is my <a href="">Colab</a> notebook.
+    <p>This week we had to build a dashboard of 9 graphs about the UK's economy. I downloaded the data from an API using the following <a href="https://colab.research.google.com/drive/1VCO9Q0ZbRBFheicwhCldgg_nN8UA1IJo?usp=sharing">Colab notebook</a>.
+        I chose to do graphs about: current government receipts, expenditure, investment, borrowing, government stock, net social benefits, taxes on income and wealth, and tax on VAT.
     </p>
 
     <h3>Dashboard of UK economy</h3>
@@ -116,27 +114,43 @@
 
 <div class="myWeek1">
     <h2>Week 8</h2>
-    
+    <p>This week we had to attend a talk at the Festival of Economics and create to graphs refutting or consolidating an argument the speakers talked about. i went to the talk about big data and I was interested in what Arthur Turrell from the ONS mentionned about inflation measures. 
+        He argued that the poorest people experience a much higher level of inflation as they buy a different basket of goods than the one looked at by the ONS when calculating the level of inflation.
+        I wanted to look at a graph showing the evolution of the price of different baskets fo goods, indexed for April 2021, and then at another graph showing by how much different food and non-alcoholic beverages' prices grew since April 2021.
+    </p>
+    <div class="chart" id="Chart19"></div>
+    <div class="chart" id="Chart20"></div>
+    <p>We can see that whilst the lowest cost grocery basket inflation is in line with the other two measures, it is usually above the simple 'Food and Non-alcoholic beverages' basket. This is exacerbated by the fact that the lowest-income households usually have to save money in order to afford essentials like food, heating, rent. Therefore, they will feel this inflation more than other households.
+        <br> <br>The second chart shows that most points are concentrated around the 0 to 0.15 rate of price change. The red dot shows the 12-month rate of inflation, which is also in the same area as most are concentrated in. We do not really observe a relation between the price of that item in April 2021 and the growth rate of its price, but we can see that quite a few of the items with high rates of change belong to the same food groups.
+    </p>
 </div>
 
 <div class="myWeek1">
     <h2>Week 9</h2>
     <p>
-        This week's task was to produce two charts that use advanced analytics. The first graph is a scatter plot that looks at whether the percentage of renewablle energy used in European countries is correlated with its GDP per capita. The 
+        This week's task was to produce two charts that use advanced analytics. The first figure is a trellis chart of gas and electricity prices for both household and non-household consumers form 1990 to 2020 in a few countries and across the EU. The second is a heatmap of energy consumption in Europe.
     </p>
-    <div class="chart" id="Chart19"></div>
+    <div class="chart" id="Chart23"></div>
+    <div class="chart" id="Chart22"></div>
 </div>
 
 <div class="myWeek1">
     <h2>Week 10 & 11</h2>
+    <p> During these two weeks, we learnt about Machine Learning. I wanted to look at whether there was a relationship between GDP and the percentage of renewabe energy a country in the EU used for the supervised learning part.
+        For the unsupervised learning, I tried to look at whether it would be possible to group those same countries depending on their usage of renewable energy.<br>
+        I collected data from Eurostat and ran a regression in Stata. The first graph shows a slight positive relationship. However, most countries do not fall on the line of best fit (with the exception of Lithuania). 
+        For the second part, I ran a K-Means program on <a href="">Colab</a>. However, I could not figure out how to get it to group the countries based on their usage of renewable energy, rather than GDP per capita.
+    </p>
+    <div class="chart" id="Chart21"></div>
+    <img src="https://github.com/LMac123/LMac123.github.io/blob/main/clusters.jpg">
 </div>
 
 </body>
 
 <script>
     //Define charts:
-    var myChart1 = "chart3_inflation.json";
-    var myChart2 = "chart4_BankRate.json";
+    var myChart1 = "chart1_inflation.json";
+    var myChart2 = "chart2_BankRate.json";
     var myChart3 = "imflending.json";
     var myChart4 = "imflending_wgdp.json";
     var myChart5 = "chart_6a_bar.json";
@@ -152,8 +166,12 @@
     var myChart15 = "wk5h_nzgf_chart.json";
     var myChart16 = "wk5i_ruto_chart.json";
     var myChart17 = "eumap.json";
-    var myChart18 = "engdpchart.json";
-    var myChart19 = "mixgdpchart.json";
+    var myChart18 = "euenmap.json";
+    var myChart19 = "lcg.json";
+    var myChart20 = "cpiindex.json";
+    var myChart21 = "mixgdpchart.json";
+    var myChart22 = "heatmap.json";
+    var myChart23 = "gelecprices.json";
     // Embed charts:
     vegaEmbed('#Chart1', myChart1);
     vegaEmbed('#Chart2', myChart2);
@@ -174,6 +192,10 @@
     vegaEmbed('#Chart17', myChart17);
     vegaEmbed('#Chart18', myChart18);
     vegaEmbed('#Chart19', myChart19);
+    vegaEmbed('#Chart20', myChart20);
+    vegaEmbed('#Chart21', myChart21);
+    vegaEmbed('#Chart22', myChart22);
+    vegaEmbed('#Chart23', myChart23);
 </script>
 
 </html>
