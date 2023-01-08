@@ -154,6 +154,14 @@ p{
     clear:right;
 }
 
+a:link{
+    color:rgb(119,171,89)
+}
+
+a:visited{
+    color:rgb(119,171,89)
+}
+
 /* To place two graphs side by side, I need to create separate id's for the outer and inner div's that allow me to place the graph sside by side, in order to not have an overlap of dividers*/
 #outer{
     width:100%;
