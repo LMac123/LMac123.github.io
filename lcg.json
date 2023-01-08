@@ -1,0 +1,53 @@
+{"$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  
+  "data":{"url":"https://raw.githubusercontent.com/LMac123/LMac123.github.io/main/lowcostgroc.csv"},
+
+    "title":{
+        "text":"Cost of Baskets of Goods",
+        "subtitle":"Index: April 2021 = 100",
+        "anchor":"start"
+    },
+
+"repeat":{"layer":["Lowest cost grocery items","Food and non-alcoholic beverages","All items"]},
+
+"spec": {"mark": "line",
+    "width":500,
+    "height":500,
+    "encoding": {
+      "x": {
+        "field": "date",
+        "type": "temporal",
+        "axis": {
+                "grid": true,
+                "title":null
+            }
+      },
+      "y": {
+        "field": {"repeat": "layer"},
+        "type": "quantitative",
+        "axis": {
+                "grid": true,
+                "title":null
+            },
+            "scale":{"domainMin":90}
+      },
+      "color": {
+        "datum": {"repeat": "layer"},
+        "type": "nominal"
+      },
+      "tooltip":[
+        {"field":"date", 
+          "type":"temporal",
+          "title":"Month"},
+        {"field": "Lowest cost grocery items",
+          "type": "quantitative",
+          "title":"Lowest cost grocery items"},
+        {"field":"Food and non-alcoholic beverages",
+        "type":"quantitative",
+        "title":"Food and Non-Alcoholic Beverages"},
+        {"field":"All items",
+        "type":"quantitative",
+        "title":"All items"}
+      ]
+    }
+}}

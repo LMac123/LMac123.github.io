@@ -1,0 +1,47 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  
+    "title": {
+      "text": "% of Nuclear Energy Production",
+      "subtitle":"Compared to Total Energy Production",
+      "subtitleFontSize":10,
+      "anchor": "start",
+      "color": "black"},
+  
+    
+    "data": {
+      "url": "https://raw.githubusercontent.com/LMac123/LMac123.github.io/main/nrg_bal_peh__custom_4409717_linear.csv"
+    },
+   
+    "height": 500,
+    "width": 500,
+   
+    "mark": {"type": "line", "point": false},
+    
+    "transform":[{
+      "filter":{"and": [{"field": "OBS_VALUE", "gt": 0}, {"field": "OBS_VALUE", "lt": 1}]}}
+    ],
+    
+    "encoding": {
+      
+      "x": {
+        "field": "TIME_PERIOD",
+        "type": "temporal",
+        "title": null,
+        "axis": {"grid": false}},
+   
+      "y": {
+        "field": "OBS_VALUE",
+        "type": "quantitative",
+        "title": null,
+        "axis": {"grid": false}},
+  
+      "color": {
+        "field": "geo",
+        "type": "nominal",
+        "scale": {"scheme": "set1"},
+        "title": null
+   
+     }
+  }
+  }
