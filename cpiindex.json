@@ -1,6 +1,6 @@
 {"$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   
-  "data":{"url":"https://raw.githubusercontent.com/LMac123/LMac123.github.io/main/cpi%20index.csv"},
+  "data":{"url":"https://raw.githubusercontent.com/LMac123/LMac123.github.io/main/cpi_index.csv"},
 
     "title":{
         "text":"Change of Price over 12 months",
