@@ -1,0 +1,64 @@
+{"$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+
+  "width":500,
+  "height":500,
+
+  "title":{
+    "text":"Years it would take to produce the energy consumed using renewable energy",
+    "subtitle":"Gross Inland Consumption / Renewable Energy Production Capacity. Source: Eurostat",
+    "anchor":"start"
+  },
+
+ "data": {
+  "url":"https://raw.githubusercontent.com/LMac123/LMac123.github.io/main/ratios.csv"},
+
+    "mark": {
+      "type": "geoshape",
+      "stroke": "black",
+      "strokeWidth":0.3
+  },
+
+  "transform": [
+    {
+      "lookup": "Country",
+      "from": {
+        "data": {
+          "url": "https://raw.githubusercontent.com/LMac123/LMac123.github.io/main/eugeo.json",
+          "format": {"property":"features"}},
+        "key": "properties.NAME",
+        "fields": ["properties", "type", "geometry"]
+      }
+    },
+    {"filter": "datum.Year==year"}
+  ],
+
+ "params": [
+    {
+      "name": "year",
+      "value": 2020,
+      "bind": {
+        "input": "range",
+        "min": 1990,
+        "max": 2020,
+        "step": 1,
+        "name": "Select the year:"
+      }
+  }
+  ],
+
+
+"encoding": {
+    "color":{
+        "field":"Bins",
+        "type":"quantitative"
+    },
+    "tooltip": [
+      {"field": "properties.NAME",
+      "type":"nominal",
+      "title":"Country"},
+      {"field":"Ratio",
+      "type":"quantitative",
+      "title":"Ratio"}
+      ]}
+
+}

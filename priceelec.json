@@ -1,0 +1,39 @@
+{"$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+
+  "width":500,
+  "height":500,
+
+  "title":{
+    "text":"Price of Electricity",
+    "subtitle":"USD/kWh",
+    "anchor":"start"
+  },
+
+   "data": {
+  "url":"https://raw.githubusercontent.com/LMac123/LMac123.github.io/main/pricceelec.csv"},
+
+  "mark":{
+    "type":"bar",
+    "color":"darkseagreen"
+  },
+
+"encoding": {
+    "x":{
+      "field":"Type",
+      "type":"nominal",
+      "axis":{"labelAngle":30},
+      "sort": ["Onshore Wind", "Hydro", "Solar Photovoltaic", "Geothermal", "Biomass"]
+    },
+    "y":{
+      "field":"Price USDkWh",
+      "type":"quantitative"
+    },
+    "tooltip": [
+      {"field": "Type",
+      "type":"nominal"},
+      {"field":"Price USDkWh",
+      "type":"quantitative",
+      "title":"Price in USD/kWh"}
+      ]}
+
+}
