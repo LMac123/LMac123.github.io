@@ -1,0 +1,35 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  
+    "width":500,
+    "height":500,
+
+    "title":{
+      "text":"Average consumption of electricity per year per capita",
+      "subtitle":"In kWh. Source: Wikipedia",
+      "anchor":"start"
+    },
+  
+    "data": {
+    "url":"https://raw.githubusercontent.com/LMac123/LMac123.github.io/main/eltb.csv"},
+  
+  "mark": {
+      "type": "bar",
+      "color": "darkseagreen"},
+  
+  "encoding": {
+       "x": {
+         "field": "Country",
+         "type": "nominal",
+         "axis": null},
+        "y":
+        {"field": "Average consumption per year per capita in kWh",
+        "type": "quantitative",
+        "title": null,
+        "axis": {"grid": false}
+        },
+      "tooltip":[
+        {"field":"Country", "type":"nominal", "title":"Country or Region"},
+        {"field":"Average consumption per year per capita in kWh", "title":"Average consumption per year per capita in kWh"}
+    ]}
+    }

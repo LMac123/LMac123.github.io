@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Project</title>
+
+     <!-- Link to my style sheet -->
+     <link rel="stylesheet" href="index copy.css">
+ 
+     <!--The next three lines allow the Vega embed-->
+     <script src="https://cdn.jsdelivr.net/npm/vega@5.17.0"></script>
+     <script src="https://cdn.jsdelivr.net/npm/vega-lite@4.17.0"></script>
+     <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.12.2"></script>
+</head>
+
+<body>
+<h1>Data Science for Economists.</h1>
+<h2>Project | <a href="https://lmac123.github.io/index">Portfolio</a></h2>
+<h3>What is the next step in the EU's Renewable Energy Journey?</h3>
+<div class="myWeek1">
+<p>As technologies advance, as demand for renewable energies increases, as the European Union imposes carbon taxes and levies, availability of renewable energies has increased and it has gotten relatively cheaper to use it.
+    As we can see in the following chart made with data from <a href="https://www.eia.gov/outlooks/aeo/assumptions/pdf/table_8.2.pdf">the U.S. Energy Information Administration</a>, renewable energy was the cheapest option on average in the world in 2020.
+</p><br>
+<div class="chart" id="Chart1"></div><br>
+
+<div class="chart" id="Chart4"></div>
+<p>
+    The chart above shows the fluctuation of gas and electricity prices in the EU, in a cheaper country like Croatia, a more expensive country like Germany, and a country in between like Luxembourg.
+    An interesting thing to note is that the renewable energies listed in the first chart are all cheaper than electricity for both HH and NHH consumers.
+</p>
+
+<p>
+    As we can see from the following chart made with data from Eurostat, the EU has achieved its 2020 goal of using 20% of renewable energy on average across the whole continent.
+    It has set even larger goals for 2030, using 32% renewable energy, and becoming a carbon-neutral continent by 2050. This looks to be doable, given the price of renewable energies and the taxes on, as well as recent volatility of, fossil fuels.
+</p>
+<div class="chart" id="Chart2"></div>
+<p>
+    There is only one more obstacle in the journey to making renewable energy the prevalent form of energy in the EU: its production capacity.
+    As illustrated on the following map, capacity in comparison to total usage has increased severely over the past 30 years. 
+    However, the highest ratio in 2020 is Moldova with 59.32. 
+    This means that with its current renewable energy capacity, it would take Moldova over 59 years to produce the amount of energy they consumed in 2020. 
+    Amongst EU member countries, the highest ratio is Hungary with almost 12 years in 2020.
+</p>
+<div class="chart" id="Chart3"></div>
+
+<p>
+    This chart was obtained by dividing <a href="https://ec.europa.eu/eurostat/databrowser/view/nrg_bal_s/default/table?lang=en">general inland consumption</a> by the <a href="https://ec.europa.eu/eurostat/databrowser/view/nrg_inf_epcrw/default/table?lang=en">capacity of renewable energy production</a> of each country and by the number of hours in a year.
+</p><br>
+
+<p>
+    Another way the EU could switch to carbon-neutral energy production is by focusing on nuclear energy. 
+    As the following chart illustrates, made with data from <a href="https://ec.europa.eu/eurostat/databrowser/view/NRG_BAL_PEH__custom_4409717/default/table?lang=en">Eurostat</a>, many EU countries have already been using nuclear energy for over 30 years.
+    Despite there not being a clear trend over the past 30 years overall, some countries have increased their production of electricity using nuclear heat.
+    However, there is a risk associated with nuclear energy: the radioactive uranium necessary for it.
+    We've already seen the damage uranium can do if it isn't properly contained and we're starting to get a taste of the problems 
+    the radioactive waste will cause us in the coming centuries. With people preferring clean methods of producing electricity
+    and the difficult disposal of radioactive waste, I hope the EU will turn away from nuclear energy.
+</p>
+
+<div class="chart" id="Chart5"></div>
+
+<h3>Conclusion</h3>
+<p>
+    For the EU to reach its ambitious but reachable goal of being carbon-neutral by 2050, it should invest in renewable energy generators that have a higher capacity as well as in R&D that would focus on increasing the capacity.
+    This will not only make renewable energy more accessible to the household consumer but also make companies consider renewable energy as a viable option to use.<br>
+    This search for higher capacity generators should go hand in hand with an increase in renewable energy generators as well as higher and higher levies to discourage people from using fossil fuels.<br>
+    In the long run, it would be interesting to look at a phasing out of fossil fuels and possibly nuclear energy. 
+</p>
+</div>
+
+<center><p>Liepa Mačytė | 2060394</p></center>
+
+<script>
+    //Define charts:
+    var theChart1 = "priceelec.json";
+    var theChart2 = "mixgdpchart.json";
+    var theChart3 = "ratiomapfinal.json"
+    var theChart4 = "gelecprices.json";
+    var theChart5 = "nuc.json";
+
+    vegaEmbed('#Chart1', theChart1);
+    vegaEmbed('#Chart2', theChart2);
+    vegaEmbed('#Chart3', theChart3);
+    vegaEmbed('#Chart4', theChart4);
+    vegaEmbed('#Chart5', theChart5);
+</script>
+</body>
+</html>

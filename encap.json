@@ -1,0 +1,45 @@
+{"$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  
+  "data":{"url":"https://raw.githubusercontent.com/LMac123/LMac123.github.io/main/capeneu.csv"},
+
+    "title":{
+        "text":"Renewable Energy Production Capacity",
+        "subtitle":"European Union, 1990-2020, MWh",
+        "anchor":"start"
+    },
+
+"repeat":{"layer":["Hydro","Wind","Solar","Solid Biofuels"]},
+
+"spec": {"mark": "line",
+    "width":500,
+    "height":500,
+    "encoding": {
+      "x": {
+        "field": "Year",
+        "type": "temporal",
+        "axis": {
+                "grid": true,
+                "title":null
+            }
+      },
+      "y": {
+        "field": {"repeat": "layer"},
+        "type": "quantitative",
+        "axis": {
+                "grid": true,
+                "title":null
+            }
+      },
+      "color": {
+        "datum": {"repeat": "layer"},
+        "type": "nominal"
+      },
+      "tooltip":[
+        {"field":"Year", 
+          "type":"temporal",
+          "title":"Month"},
+        {"field": {"repeat": "layer"},
+          "type": "quantitative"
+    
+    }]
+}}}
