@@ -10,6 +10,8 @@
  "projection": {
         "type":"mercator"
     },
+ 
+ "title":{"text":"Europe","anchor":"start"},
 
     "mark": {
       "type": "geoshape",
