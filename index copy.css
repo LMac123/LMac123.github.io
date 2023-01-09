@@ -1,6 +1,5 @@
 /* Liepa Macyte, Data Science for Economists */
 
-
 /* Set the background color for my page: */
 body{
     background-color: rgb(35,77,32);
@@ -59,7 +58,7 @@ p{
 .chart{
     align-items: center;
     background-color: white;
-    width: auto;
+    max-width: auto;
     float: center;
     
     border-width: 3px;
@@ -109,7 +108,7 @@ p{
 .chartweek4{
     align-items: center;
     background-color: white;
-    width: auto;
+    max-width: 100%;
     
     border-width: 3px;
     border-style: solid;
