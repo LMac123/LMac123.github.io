@@ -1,8 +1,9 @@
-{"$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  
-  "data":{"url":"https://raw.githubusercontent.com/LMac123/LMac123.github.io/main/cpi_index.csv"},
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
 
-    "title":{
+  "data":{"url":"https://raw.githubusercontent.com/LMac123/LMac123.github.io/main/cpi-index.csv"},
+
+  "title":{
         "text":"Change of Price over 12 months",
         "subtitle":"From April 2021 to April 2022",
         "anchor":"start"
@@ -11,23 +12,24 @@
     "height":500,
     "width":500,
 
-    "mark": {   
-            "type":"point",
-            "point":true,
-            "strokeWidth":1,
-            "filled":true},
-    
-    "encoding": {
-            "x": {
-                "field": "Price in 2021",
-                "type": "quantitative",
-                "title":null,
-                "axis":{"grid": false}},
-            "y": {
-                "field": "Change",
-                "type": "quantitative",
-                "title": null},
-            "tooltip": [
+  "mark":{
+    "type":"point",
+    "point":true,
+    "strokeWidth":0,
+    "fill":"darkseagreen"
+    },
+
+  "encoding":{
+    "x":{
+        "field":"Price 2021",
+        "type":"quantitative",
+        "axis":{"grid":false}
+    },
+
+    "y":{"field":"Change",
+    "type":"quantitative"},
+
+    "tooltip": [
                 {"field": "Item",
                 "type":"nominal",
                 "title":"Item"},
@@ -36,13 +38,12 @@
                 "type": "nominal",
                 "title":"Size"},
                 
-                {"field":"Price in 2021",
+                {"field":"Price 2021",
                 "type":"quantitative",
-                "title":"Prince in April 2021"},
+                "title":"Prince in April 2021 (in pence)"},
                 
-                {"field":"Price in 2022",
+                {"field":"Price 2022",
                 "type": "quantitative",
-                "title":"Price in April 2022"}],
-            "color": {"type": "nominal", "field": " Colour", "scale": null}
-}
+                "title":"Price in April 2022 (in pence)"}]
+  }
 }
