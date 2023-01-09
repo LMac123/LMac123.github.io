@@ -3,8 +3,8 @@
   
   
     "title": {
-    "text": "Inflation - official target",
-    "subtitle": "CPI, % change over 12 months ",
+    "text": "UK Inflation",
+    "subtitle": "% change over 12 months",
     "subtitleFontStyle":"italic",
     "subtitleFontSize":10,
     "anchor": "start",
